@@ -19,7 +19,7 @@
     "d3": "^3.5.9",
     "dotty": "0.0.2",
     "ejs": "1.0.0",
-    "express": "3.2.6",
+    "express": "4.19.2",
     "fastdom": "0.8.5",
     "foundation": "4.2.1-1",
     "gulp-hash": "2.0.3",
